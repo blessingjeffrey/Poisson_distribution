@@ -1,5 +1,5 @@
 # Name: Blessing Jeffrey Y.L
-# Reg.no: 212223220014
+# Reg.no: 212223220014 
 
 
 # Fitting Poisson  distribution
